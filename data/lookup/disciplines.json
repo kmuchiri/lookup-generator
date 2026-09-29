@@ -1,0 +1,1346 @@
+{
+  "10000m-MT": {
+    "discipline": "10000m",
+    "code": "10000m-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "10000m-WT": {
+    "discipline": "10000m",
+    "code": "10000m-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "10000mWalk-MT": {
+    "discipline": "10000mWalk",
+    "code": "10000mWalk-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "10000mWalk-WT": {
+    "discipline": "10000mWalk",
+    "code": "10000mWalk-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "1000m-MT": {
+    "discipline": "1000m",
+    "code": "1000m-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "1000m-WT": {
+    "discipline": "1000m",
+    "code": "1000m-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "1000m_sh-MT": {
+    "discipline": "1000m sh",
+    "code": "1000m_sh-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "1000m_sh-WT": {
+    "discipline": "1000m sh",
+    "code": "1000m_sh-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "100km-MT": {
+    "discipline": "100km",
+    "code": "100km-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "100km-WT": {
+    "discipline": "100km",
+    "code": "100km-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "100m-MT": {
+    "discipline": "100m",
+    "code": "100m-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "100m-WT": {
+    "discipline": "100m",
+    "code": "100m-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "100mH-WT": {
+    "discipline": "100mH",
+    "code": "100mH-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "10Miles-MT": {
+    "discipline": "10Miles",
+    "code": "10Miles-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "10Miles-WT": {
+    "discipline": "10Miles",
+    "code": "10Miles-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "10km-MT": {
+    "discipline": "10km",
+    "code": "10km-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "10km-WT": {
+    "discipline": "10km",
+    "code": "10km-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "10kmWalk-MT": {
+    "discipline": "10kmWalk",
+    "code": "10kmWalk-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "10kmWalk-WT": {
+    "discipline": "10kmWalk",
+    "code": "10kmWalk-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "110mH-MT": {
+    "discipline": "110mH",
+    "code": "110mH-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "15000mWalk-MT": {
+    "discipline": "15000mWalk",
+    "code": "15000mWalk-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "15000mWalk-WT": {
+    "discipline": "15000mWalk",
+    "code": "15000mWalk-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "1500m-MT": {
+    "discipline": "1500m",
+    "code": "1500m-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "1500m-WT": {
+    "discipline": "1500m",
+    "code": "1500m-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "1500m_sh-MT": {
+    "discipline": "1500m sh",
+    "code": "1500m_sh-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "1500m_sh-WT": {
+    "discipline": "1500m sh",
+    "code": "1500m_sh-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "15km-MT": {
+    "discipline": "15km",
+    "code": "15km-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "15km-WT": {
+    "discipline": "15km",
+    "code": "15km-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "15kmWalk-MT": {
+    "discipline": "15kmWalk",
+    "code": "15kmWalk-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "15kmWalk-WT": {
+    "discipline": "15kmWalk",
+    "code": "15kmWalk-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "20000mWalk-MT": {
+    "discipline": "20000mWalk",
+    "code": "20000mWalk-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "20000mWalk-WT": {
+    "discipline": "20000mWalk",
+    "code": "20000mWalk-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "2000m-MT": {
+    "discipline": "2000m",
+    "code": "2000m-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "2000m-WT": {
+    "discipline": "2000m",
+    "code": "2000m-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "2000m_SC-MT": {
+    "discipline": "2000m SC",
+    "code": "2000m_SC-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "2000m_SC-WT": {
+    "discipline": "2000m SC",
+    "code": "2000m_SC-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "2000m_sh-MT": {
+    "discipline": "2000m sh",
+    "code": "2000m_sh-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "2000m_sh-WT": {
+    "discipline": "2000m sh",
+    "code": "2000m_sh-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "200m-MT": {
+    "discipline": "200m",
+    "code": "200m-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "200m-WT": {
+    "discipline": "200m",
+    "code": "200m-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "200m_sh-MT": {
+    "discipline": "200m sh",
+    "code": "200m_sh-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "200m_sh-WT": {
+    "discipline": "200m sh",
+    "code": "200m_sh-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "20km-MT": {
+    "discipline": "20km",
+    "code": "20km-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "20km-WT": {
+    "discipline": "20km",
+    "code": "20km-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "20kmWalk-MT": {
+    "discipline": "20kmWalk",
+    "code": "20kmWalk-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "20kmWalk-WT": {
+    "discipline": "20kmWalk",
+    "code": "20kmWalk-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "25km-MT": {
+    "discipline": "25km",
+    "code": "25km-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "25km-WT": {
+    "discipline": "25km",
+    "code": "25km-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "2Miles-MT": {
+    "discipline": "2Miles",
+    "code": "2Miles-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "2Miles-WT": {
+    "discipline": "2Miles",
+    "code": "2Miles-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "2Miles_sh-MT": {
+    "discipline": "2Miles sh",
+    "code": "2Miles_sh-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "2Miles_sh-WT": {
+    "discipline": "2Miles sh",
+    "code": "2Miles_sh-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "30000mWalk-MT": {
+    "discipline": "30000mWalk",
+    "code": "30000mWalk-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "30000mWalk-WT": {
+    "discipline": "30000mWalk",
+    "code": "30000mWalk-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "3000m-MT": {
+    "discipline": "3000m",
+    "code": "3000m-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "3000m-WT": {
+    "discipline": "3000m",
+    "code": "3000m-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "3000mWalk-MT": {
+    "discipline": "3000mWalk",
+    "code": "3000mWalk-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "3000mWalk-WT": {
+    "discipline": "3000mWalk",
+    "code": "3000mWalk-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "3000m_SC-MT": {
+    "discipline": "3000m SC",
+    "code": "3000m_SC-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "3000m_SC-WT": {
+    "discipline": "3000m SC",
+    "code": "3000m_SC-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "3000m_sh-MT": {
+    "discipline": "3000m sh",
+    "code": "3000m_sh-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "3000m_sh-WT": {
+    "discipline": "3000m sh",
+    "code": "3000m_sh-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "300m-MT": {
+    "discipline": "300m",
+    "code": "300m-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "300m-WT": {
+    "discipline": "300m",
+    "code": "300m-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "300mH-MT": {
+    "discipline": "300mH",
+    "code": "300mH-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "300mH-WT": {
+    "discipline": "300mH",
+    "code": "300mH-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "300m_sh-MT": {
+    "discipline": "300m sh",
+    "code": "300m_sh-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "300m_sh-WT": {
+    "discipline": "300m sh",
+    "code": "300m_sh-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "30km-MT": {
+    "discipline": "30km",
+    "code": "30km-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "30km-WT": {
+    "discipline": "30km",
+    "code": "30km-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "30kmWalk-MT": {
+    "discipline": "30kmWalk",
+    "code": "30kmWalk-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "30kmWalk-WT": {
+    "discipline": "30kmWalk",
+    "code": "30kmWalk-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "35000mWalk-MT": {
+    "discipline": "35000mWalk",
+    "code": "35000mWalk-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "35000mWalk-WT": {
+    "discipline": "35000mWalk",
+    "code": "35000mWalk-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "35kmWalk-MT": {
+    "discipline": "35kmWalk",
+    "code": "35kmWalk-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "35kmWalk-WT": {
+    "discipline": "35kmWalk",
+    "code": "35kmWalk-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "3kmWalk-MT": {
+    "discipline": "3kmWalk",
+    "code": "3kmWalk-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "3kmWalk-WT": {
+    "discipline": "3kmWalk",
+    "code": "3kmWalk-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "400m-MT": {
+    "discipline": "400m",
+    "code": "400m-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "400m-WT": {
+    "discipline": "400m",
+    "code": "400m-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "400mH-MT": {
+    "discipline": "400mH",
+    "code": "400mH-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "400mH-WT": {
+    "discipline": "400mH",
+    "code": "400mH-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "400m_sh-MT": {
+    "discipline": "400m sh",
+    "code": "400m_sh-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "400m_sh-WT": {
+    "discipline": "400m sh",
+    "code": "400m_sh-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "4x100m-MT": {
+    "discipline": "4x100m",
+    "code": "4x100m-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "4x100m-WT": {
+    "discipline": "4x100m",
+    "code": "4x100m-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "4x200m-MT": {
+    "discipline": "4x200m",
+    "code": "4x200m-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "4x200m-WT": {
+    "discipline": "4x200m",
+    "code": "4x200m-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "4x200m_sh-MT": {
+    "discipline": "4x200m sh",
+    "code": "4x200m_sh-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "4x200m_sh-WT": {
+    "discipline": "4x200m sh",
+    "code": "4x200m_sh-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "4x400m-MT": {
+    "discipline": "4x400m",
+    "code": "4x400m-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "4x400m-WT": {
+    "discipline": "4x400m",
+    "code": "4x400m-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "4x400m_sh-MT": {
+    "discipline": "4x400m sh",
+    "code": "4x400m_sh-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "4x400m_sh-WT": {
+    "discipline": "4x400m sh",
+    "code": "4x400m_sh-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "4x400mix-MT": {
+    "discipline": "4x400mix",
+    "code": "4x400mix-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "4x400mix-WT": {
+    "discipline": "4x400mix",
+    "code": "4x400mix-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "4x400mix_sh-MT": {
+    "discipline": "4x400mix sh",
+    "code": "4x400mix_sh-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "4x400mix_sh-WT": {
+    "discipline": "4x400mix sh",
+    "code": "4x400mix_sh-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "50000mWalk-MT": {
+    "discipline": "50000mWalk",
+    "code": "50000mWalk-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "50000mWalk-WT": {
+    "discipline": "50000mWalk",
+    "code": "50000mWalk-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "5000m-MT": {
+    "discipline": "5000m",
+    "code": "5000m-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "5000m-WT": {
+    "discipline": "5000m",
+    "code": "5000m-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "5000mWalk-MT": {
+    "discipline": "5000mWalk",
+    "code": "5000mWalk-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "5000mWalk-WT": {
+    "discipline": "5000mWalk",
+    "code": "5000mWalk-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "5000m_sh-MT": {
+    "discipline": "5000m sh",
+    "code": "5000m_sh-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "5000m_sh-WT": {
+    "discipline": "5000m sh",
+    "code": "5000m_sh-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "500m-MT": {
+    "discipline": "500m",
+    "code": "500m-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "500m-WT": {
+    "discipline": "500m",
+    "code": "500m-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "500m_sh-MT": {
+    "discipline": "500m sh",
+    "code": "500m_sh-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "500m_sh-WT": {
+    "discipline": "500m sh",
+    "code": "500m_sh-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "50kmWalk-MT": {
+    "discipline": "50kmWalk",
+    "code": "50kmWalk-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "50kmWalk-WT": {
+    "discipline": "50kmWalk",
+    "code": "50kmWalk-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "50m-MT": {
+    "discipline": "50m",
+    "code": "50m-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "50m-WT": {
+    "discipline": "50m",
+    "code": "50m-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "50mH-MT": {
+    "discipline": "50mH",
+    "code": "50mH-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "50mH-WT": {
+    "discipline": "50mH",
+    "code": "50mH-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "55m-MT": {
+    "discipline": "55m",
+    "code": "55m-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "55m-WT": {
+    "discipline": "55m",
+    "code": "55m-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "55mH-MT": {
+    "discipline": "55mH",
+    "code": "55mH-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "55mH-WT": {
+    "discipline": "55mH",
+    "code": "55mH-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "5km-MT": {
+    "discipline": "5km",
+    "code": "5km-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "5km-WT": {
+    "discipline": "5km",
+    "code": "5km-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "5kmWalk-MT": {
+    "discipline": "5kmWalk",
+    "code": "5kmWalk-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "5kmWalk-WT": {
+    "discipline": "5kmWalk",
+    "code": "5kmWalk-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "600m-MT": {
+    "discipline": "600m",
+    "code": "600m-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "600m-WT": {
+    "discipline": "600m",
+    "code": "600m-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "600m_sh-MT": {
+    "discipline": "600m sh",
+    "code": "600m_sh-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "600m_sh-WT": {
+    "discipline": "600m sh",
+    "code": "600m_sh-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "60m-MT": {
+    "discipline": "60m",
+    "code": "60m-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "60m-WT": {
+    "discipline": "60m",
+    "code": "60m-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "60mH-MT": {
+    "discipline": "60mH",
+    "code": "60mH-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "60mH-WT": {
+    "discipline": "60mH",
+    "code": "60mH-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "800m-MT": {
+    "discipline": "800m",
+    "code": "800m-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "800m-WT": {
+    "discipline": "800m",
+    "code": "800m-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "800m_sh-MT": {
+    "discipline": "800m sh",
+    "code": "800m_sh-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "800m_sh-WT": {
+    "discipline": "800m sh",
+    "code": "800m_sh-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "DT-MF": {
+    "discipline": "Discus Throw",
+    "code": "DT-MF",
+    "gender": "Men",
+    "category": "Field",
+    "unit": "m",
+    "higher_is_better": true
+  },
+  "DT-WF": {
+    "discipline": "Discus Throw",
+    "code": "DT-WF",
+    "gender": "Women",
+    "category": "Field",
+    "unit": "m",
+    "higher_is_better": true
+  },
+  "Dec-MF": {
+    "discipline": "Decathlon",
+    "code": "Dec-MF",
+    "gender": "Men",
+    "category": "Field",
+    "unit": "m",
+    "higher_is_better": true
+  },
+  "HJ-MF": {
+    "discipline": "High Jump",
+    "code": "HJ-MF",
+    "gender": "Men",
+    "category": "Field",
+    "unit": "m",
+    "higher_is_better": true
+  },
+  "HJ-WF": {
+    "discipline": "High Jump",
+    "code": "HJ-WF",
+    "gender": "Women",
+    "category": "Field",
+    "unit": "m",
+    "higher_is_better": true
+  },
+  "HM-MT": {
+    "discipline": "Half Marathon",
+    "code": "HM-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "HM-WT": {
+    "discipline": "Half Marathon",
+    "code": "HM-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "HMW-MT": {
+    "discipline": "Half Marathon Walk",
+    "code": "HMW-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "HMW-WT": {
+    "discipline": "Half Marathon Walk",
+    "code": "HMW-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "HT-MF": {
+    "discipline": "Hammer Throw",
+    "code": "HT-MF",
+    "gender": "Men",
+    "category": "Field",
+    "unit": "m",
+    "higher_is_better": true
+  },
+  "HT-WF": {
+    "discipline": "Hammer Throw",
+    "code": "HT-WF",
+    "gender": "Women",
+    "category": "Field",
+    "unit": "m",
+    "higher_is_better": true
+  },
+  "Hept-WF": {
+    "discipline": "Heptathlon",
+    "code": "Hept-WF",
+    "gender": "Women",
+    "category": "Field",
+    "unit": "m",
+    "higher_is_better": true
+  },
+  "Hept_sh-MF": {
+    "discipline": "Hept sh",
+    "code": "Hept_sh-MF",
+    "gender": "Men",
+    "category": "Field",
+    "unit": "m",
+    "higher_is_better": true
+  },
+  "JT-MF": {
+    "discipline": "Javelin Throw",
+    "code": "JT-MF",
+    "gender": "Men",
+    "category": "Field",
+    "unit": "m",
+    "higher_is_better": true
+  },
+  "JT-WF": {
+    "discipline": "Javelin Throw",
+    "code": "JT-WF",
+    "gender": "Women",
+    "category": "Field",
+    "unit": "m",
+    "higher_is_better": true
+  },
+  "LJ-MF": {
+    "discipline": "Long Jump",
+    "code": "LJ-MF",
+    "gender": "Men",
+    "category": "Field",
+    "unit": "m",
+    "higher_is_better": true
+  },
+  "LJ-WF": {
+    "discipline": "Long Jump",
+    "code": "LJ-WF",
+    "gender": "Women",
+    "category": "Field",
+    "unit": "m",
+    "higher_is_better": true
+  },
+  "MarW-MT": {
+    "discipline": "Marathon Walk",
+    "code": "MarW-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "MarW-WT": {
+    "discipline": "Marathon Walk",
+    "code": "MarW-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "Marathon-MT": {
+    "discipline": "Marathon",
+    "code": "Marathon-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "Marathon-WT": {
+    "discipline": "Marathon",
+    "code": "Marathon-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "Mile-MT": {
+    "discipline": "Mile",
+    "code": "Mile-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "Mile-WT": {
+    "discipline": "Mile",
+    "code": "Mile-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "Mile_sh-MT": {
+    "discipline": "Mile sh",
+    "code": "Mile_sh-MT",
+    "gender": "Men",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "Mile_sh-WT": {
+    "discipline": "Mile sh",
+    "code": "Mile_sh-WT",
+    "gender": "Women",
+    "category": "Track",
+    "unit": "s",
+    "higher_is_better": false
+  },
+  "PV-MF": {
+    "discipline": "Pole Vault",
+    "code": "PV-MF",
+    "gender": "Men",
+    "category": "Field",
+    "unit": "m",
+    "higher_is_better": true
+  },
+  "PV-WF": {
+    "discipline": "Pole Vault",
+    "code": "PV-WF",
+    "gender": "Women",
+    "category": "Field",
+    "unit": "m",
+    "higher_is_better": true
+  },
+  "Pent_sh-WF": {
+    "discipline": "Pent sh",
+    "code": "Pent_sh-WF",
+    "gender": "Women",
+    "category": "Field",
+    "unit": "m",
+    "higher_is_better": true
+  },
+  "SP-MF": {
+    "discipline": "Shot Put",
+    "code": "SP-MF",
+    "gender": "Men",
+    "category": "Field",
+    "unit": "m",
+    "higher_is_better": true
+  },
+  "SP-WF": {
+    "discipline": "Shot Put",
+    "code": "SP-WF",
+    "gender": "Women",
+    "category": "Field",
+    "unit": "m",
+    "higher_is_better": true
+  },
+  "TJ-MF": {
+    "discipline": "Triple Jump",
+    "code": "TJ-MF",
+    "gender": "Men",
+    "category": "Field",
+    "unit": "m",
+    "higher_is_better": true
+  },
+  "TJ-WF": {
+    "discipline": "Triple Jump",
+    "code": "TJ-WF",
+    "gender": "Women",
+    "category": "Field",
+    "unit": "m",
+    "higher_is_better": true
+  }
+}
